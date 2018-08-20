@@ -1,2 +1,2 @@
 # idanote-witness
-Witness for TrustNote network
+Witness for IdaNode network
