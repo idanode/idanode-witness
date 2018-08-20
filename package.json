@@ -1,6 +1,6 @@
 {
   "name": "idanote-witness",
-  "description": "TrustNote witness",
+  "description": "IdaNote witness",
   "author": "Idanote",
   "version": "0.1.0",
   "main": "start.js",
